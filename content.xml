@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>202604051433119OGPJW</value>
+    <value>202604052050280NCGRZ</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>202604051433110RR4P0</value>
+    <value>20260405205028BBAECL</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -24,7 +24,7 @@
 <odeProperties>
   <odeProperty>
     <key>pp_title</key>
-    <value>SITUACIÓN DE APRENDIZAJE :TU ITINERARIO PERSONAL Y PROFESIONAL</value>
+    <value>Documento sin título</value>
   </odeProperty>
   <odeProperty>
     <key>pp_lang</key>
@@ -48,7 +48,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1775389061862</value>
+    <value>1775415004768</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -60,7 +60,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_addSearchBox</key>
-    <value>false</value>
+    <value>true</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addAccessibilityToolbar</key>
@@ -81,7 +81,7 @@
 </odeProperties>
 <odeNavStructures>
 <odeNavStructure>
-  <odePageId>page-mnlos510-g2bh2w8hy</odePageId>
+  <odePageId>page-mnm48lb2-r7k0vufzq</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>DISEÑA TU FUTURO: TU ITINERARIO PERSONAL Y PROFESIONAL</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
@@ -117,7 +117,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mnlos510-g2bh2w8hy</odePageId>
+      <odePageId>page-mnm48lb2-r7k0vufzq</odePageId>
       <odeBlockId>block-1775383442068-gig78ko0s</odeBlockId>
       <blockName>Texto</blockName>
       <iconName></iconName>
@@ -146,7 +146,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnlos510-g2bh2w8hy</odePageId>
+          <odePageId>page-mnm48lb2-r7k0vufzq</odePageId>
           <odeBlockId>block-1775383442068-gig78ko0s</odeBlockId>
           <odeIdeviceId>idevice-1775383442067-33q6beu9i</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -154,8 +154,8 @@
     <p><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">DESCRIPCIÓN DE LA SITUACIÓN DE APRENDIZAJE:</span></span></strong></p>
 <p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Esta situación de aprendizaje tiene como finalidad que el alumno desarrolle un proceso de autoconocimiento y orientación profesional, permitiéndole analizar sus intereses, competencias y objetivos para diseñar un itinerario personal y profesional realista. A través de metodologías activas y herramientas digitales, el alumno elaborará productos como una infografía interactiva y un podcast, donde reflejará su proceso de reflexión, su análisis DAFO y su plan de acción para la inserción laboral.</span></span></p>
 <p><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Etapa educativa y nivel:</span></span></strong></p>
-<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Formación Profesional Ciclo de Grado Medio, primer curso.</span></span></p>
-<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Módulo: IPE I (Itinerario Personal para la Empleabilidad) .</span></span></p>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Formación Profesional Ciclo de Grado Medio</span></span></p>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Módulo: IPE I (Itinerario Personal para la Empleabilidad) </span></span></p>
 <p><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Áreas, materias o módulos implicados</span></span></strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"> : Con esta situación de aprendizaje además de trabajar el módulo a alcanzar IPE I, trabajamos el módulo de Digitalización aplicada (transversal) y la competencia clave personal y social.</span></span></p>
 <p><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Los Agrupamientos y organizaciones espaciales</span></span></strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"> siguiendo los principios del DUA serán: </span></span></p>
 <p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">-Trabajo individual (autoconocimiento) ficha de conocimiento de intereses y DAFO</span></span></p>
@@ -175,7 +175,7 @@
 <p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><strong>Herramientas tecnológicas:</strong></span></span></p>
 <p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Mencionadas anteriormente podrían ser entre otras : Canva ,Genially, Powerpoint, Audacity , Anchor  ,Spotify ,Moodle, Teams  </span></span></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775383442067-33q6beu9i","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">DESCRIPCIÓN DE LA SITUACIÓN DE APRENDIZAJE:</span></span></strong></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Esta situación de aprendizaje tiene como finalidad que el alumno desarrolle un proceso de autoconocimiento y orientación profesional, permitiéndole analizar sus intereses, competencias y objetivos para diseñar un itinerario personal y profesional realista. A través de metodologías activas y herramientas digitales, el alumno elaborará productos como una infografía interactiva y un podcast, donde reflejará su proceso de reflexión, su análisis DAFO y su plan de acción para la inserción laboral.</span></span></p>\n<p><strong><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Etapa educativa y nivel:</span></span></strong></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Formación Profesional Ciclo de Grado Medio, primer curso.</span></span></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Módulo: IPE I (Itinerario Personal para la Empleabilidad) .</span></span></p>\n<p><strong><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Áreas, materias o módulos implicados</span></span></strong><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"> : Con esta situación de aprendizaje además de trabajar el módulo a alcanzar IPE I, trabajamos el módulo de Digitalización aplicada (transversal) y la competencia clave personal y social.</span></span></p>\n<p><strong><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Los Agrupamientos y organizaciones espaciales</span></span></strong><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"> siguiendo los principios del DUA serán: </span></span></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">-Trabajo individual (autoconocimiento) ficha de conocimiento de intereses y DAFO</span></span></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">-Trabajo en parejas (coevaluación) con la infografía </span></span></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"> -Trabajo cooperativo (podcast), este será por parejas.</span></span></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Todos los agrupamientos se harán en el aula ordinaria, siendo ésta de gran tamaño y pudiendo realizar todos ellos sin ninguna dificultad.   </span></span><strong><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Temporalización:</span></span></strong><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"> Duración total: 8 sesiones (55 min).</span></span></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">1ª sesión: Intereses y motivaciones con ficha autoconocimiento de  intereses.</span></span></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">2ª y 3º sesión: Objetivos SMART y DAFO.</span></span></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">4ª y 5ª sesión: Empleabilidad (habilidades blandas y duras), a la vez se daran las instrucciones para el podcast que tratará de las habilidades blandas</span></span></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">6ª sesión . Autoestima y empleabilidad </span></span></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">7ª sesión:. Introducción al  Ikigai y plan de acción</span></span></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">8ª sesión : Presentar algún podcast en el aula y valorar el mejor de todos grupalmente.</span></span></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Tareas a realizar por  del alumnado :</span></span></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">1. Infografía interactiva sobre DAFO   herramientas: Genially / Canva, etc </span></span></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">2.  Podcast de  Tema: “Habilidades blandas en el presente laboral\". Herramientas a utilizar :Audacity / Anchor / Spotify etc.</span></span></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">3. Otros productos: Ficha  de autoconocimiento, Plantilla DAFO , CAME </span></span></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><strong>Herramientas tecnológicas:</strong></span></span></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Mencionadas anteriormente podrían ser entre otras : Canva ,Genially, Powerpoint, Audacity , Anchor  ,Spotify ,Moodle, Teams  </span></span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775383442067-33q6beu9i","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">DESCRIPCIÓN DE LA SITUACIÓN DE APRENDIZAJE:</span></span></strong></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Esta situación de aprendizaje tiene como finalidad que el alumno desarrolle un proceso de autoconocimiento y orientación profesional, permitiéndole analizar sus intereses, competencias y objetivos para diseñar un itinerario personal y profesional realista. A través de metodologías activas y herramientas digitales, el alumno elaborará productos como una infografía interactiva y un podcast, donde reflejará su proceso de reflexión, su análisis DAFO y su plan de acción para la inserción laboral.</span></span></p>\n<p><strong><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Etapa educativa y nivel:</span></span></strong></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Formación Profesional Ciclo de Grado Medio</span></span></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Módulo: IPE I (Itinerario Personal para la Empleabilidad) </span></span></p>\n<p><strong><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Áreas, materias o módulos implicados</span></span></strong><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"> : Con esta situación de aprendizaje además de trabajar el módulo a alcanzar IPE I, trabajamos el módulo de Digitalización aplicada (transversal) y la competencia clave personal y social.</span></span></p>\n<p><strong><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Los Agrupamientos y organizaciones espaciales</span></span></strong><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"> siguiendo los principios del DUA serán: </span></span></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">-Trabajo individual (autoconocimiento) ficha de conocimiento de intereses y DAFO</span></span></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">-Trabajo en parejas (coevaluación) con la infografía </span></span></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"> -Trabajo cooperativo (podcast), este será por parejas.</span></span></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Todos los agrupamientos se harán en el aula ordinaria, siendo ésta de gran tamaño y pudiendo realizar todos ellos sin ninguna dificultad.   </span></span><strong><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Temporalización:</span></span></strong><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"> Duración total: 8 sesiones (55 min).</span></span></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">1ª sesión: Intereses y motivaciones con ficha autoconocimiento de  intereses.</span></span></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">2ª y 3º sesión: Objetivos SMART y DAFO.</span></span></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">4ª y 5ª sesión: Empleabilidad (habilidades blandas y duras), a la vez se daran las instrucciones para el podcast que tratará de las habilidades blandas</span></span></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">6ª sesión . Autoestima y empleabilidad </span></span></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">7ª sesión:. Introducción al  Ikigai y plan de acción</span></span></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">8ª sesión : Presentar algún podcast en el aula y valorar el mejor de todos grupalmente.</span></span></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Tareas a realizar por  del alumnado :</span></span></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">1. Infografía interactiva sobre DAFO   herramientas: Genially / Canva, etc </span></span></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">2.  Podcast de  Tema: “Habilidades blandas en el presente laboral\". Herramientas a utilizar :Audacity / Anchor / Spotify etc.</span></span></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">3. Otros productos: Ficha  de autoconocimiento, Plantilla DAFO , CAME </span></span></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><strong>Herramientas tecnológicas:</strong></span></span></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Mencionadas anteriormente podrían ser entre otras : Canva ,Genially, Powerpoint, Audacity , Anchor  ,Spotify ,Moodle, Teams  </span></span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -195,7 +195,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mnlos510-g2bh2w8hy</odePageId>
+      <odePageId>page-mnm48lb2-r7k0vufzq</odePageId>
       <odeBlockId>block-1775388923572-57vvckwzl</odeBlockId>
       <blockName>MAPA MENTAL</blockName>
       <iconName></iconName>
@@ -224,7 +224,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnlos510-g2bh2w8hy</odePageId>
+          <odePageId>page-mnm48lb2-r7k0vufzq</odePageId>
           <odeBlockId>block-1775388923572-57vvckwzl</odeBlockId>
           <odeIdeviceId>idevice-1775388923571-znkr44xzk</odeIdeviceId>
           <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
@@ -233,13 +233,13 @@
   <!-- Idevice content start -->
   
             <div class="imageGallery-IDevice">
-                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1775388923571-znkr44xzk" title="" href="asset://53141280-4a4e-78ca-2f1d-282f32e81fad.png" class="imageLink">  <div class="imageElement">   <img src="asset://53141280-4a4e-78ca-2f1d-282f32e81fad.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1775388923571-znkr44xzk" title="" href="{{context_path}}/content/resources/diseña tu futuro.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/diseña tu futuro.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
                 </div>
             </div>
   <!-- Idevice content end -->
 </div>
 <!-- Idevice Example template end -->]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775388923571-znkr44xzk","img_0":{"img":"asset://53141280-4a4e-78ca-2f1d-282f32e81fad.png","thumbnail":"asset://53141280-4a4e-78ca-2f1d-282f32e81fad.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775388923571-znkr44xzk","img_0":{"img":"{{context_path}}/content/resources/diseña tu futuro.png","thumbnail":"{{context_path}}/content/resources/diseña tu futuro.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -261,8 +261,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mnlos512-y2qyaxy7k</odePageId>
-  <odeParentPageId>page-mnlos510-g2bh2w8hy</odeParentPageId>
+  <odePageId>page-mnm48lb5-tj7tzk6wm</odePageId>
+  <odeParentPageId>page-mnm48lb2-r7k0vufzq</odeParentPageId>
   <pageName>1. Intención educativa</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -297,7 +297,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mnlos512-y2qyaxy7k</odePageId>
+      <odePageId>page-mnm48lb5-tj7tzk6wm</odePageId>
       <odeBlockId>block-1775386502345-fg3ovukgx</odeBlockId>
       <blockName>Texto</blockName>
       <iconName></iconName>
@@ -326,7 +326,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnlos512-y2qyaxy7k</odePageId>
+          <odePageId>page-mnm48lb5-tj7tzk6wm</odePageId>
           <odeBlockId>block-1775386502345-fg3ovukgx</odeBlockId>
           <odeIdeviceId>idevice-1775386502343-hxmax0pp5</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -361,7 +361,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mnlos512-y2qyaxy7k</odePageId>
+      <odePageId>page-mnm48lb5-tj7tzk6wm</odePageId>
       <odeBlockId>block-1775386651958-xrosgx6bm</odeBlockId>
       <blockName>Descargar el archivo fuente</blockName>
       <iconName></iconName>
@@ -390,7 +390,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnlos512-y2qyaxy7k</odePageId>
+          <odePageId>page-mnm48lb5-tj7tzk6wm</odePageId>
           <odeBlockId>block-1775386651958-xrosgx6bm</odeBlockId>
           <odeIdeviceId>idevice-1775386651956-cmnapcyko</odeIdeviceId>
           <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
@@ -415,7 +415,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mnlos512-y2qyaxy7k</odePageId>
+      <odePageId>page-mnm48lb5-tj7tzk6wm</odePageId>
       <odeBlockId>block-1775386672578-dxd1b0iq9</odeBlockId>
       <blockName>Galería de imágenes</blockName>
       <iconName></iconName>
@@ -444,7 +444,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnlos512-y2qyaxy7k</odePageId>
+          <odePageId>page-mnm48lb5-tj7tzk6wm</odePageId>
           <odeBlockId>block-1775386672578-dxd1b0iq9</odeBlockId>
           <odeIdeviceId>idevice-1775386672577-mdo3evrrs</odeIdeviceId>
           <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
@@ -481,8 +481,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mnlos513-pps2yv5ur</odePageId>
-  <odeParentPageId>page-mnlos510-g2bh2w8hy</odeParentPageId>
+  <odePageId>page-mnm48lb6-7wrxb42dg</odePageId>
+  <odeParentPageId>page-mnm48lb2-r7k0vufzq</odeParentPageId>
   <pageName>2. Elementos curriculares </pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -517,7 +517,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mnlos513-pps2yv5ur</odePageId>
+      <odePageId>page-mnm48lb6-7wrxb42dg</odePageId>
       <odeBlockId>block-1775386842295-b8wpbu1c3</odeBlockId>
       <blockName>Texto</blockName>
       <iconName></iconName>
@@ -546,7 +546,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnlos513-pps2yv5ur</odePageId>
+          <odePageId>page-mnm48lb6-7wrxb42dg</odePageId>
           <odeBlockId>block-1775386842295-b8wpbu1c3</odeBlockId>
           <odeIdeviceId>idevice-1775386842295-px07dxo9h</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -592,8 +592,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mnlos514-lxjausxjz</odePageId>
-  <odeParentPageId>page-mnlos510-g2bh2w8hy</odeParentPageId>
+  <odePageId>page-mnm48lb6-s7qsv5feq</odePageId>
+  <odeParentPageId>page-mnm48lb2-r7k0vufzq</odeParentPageId>
   <pageName>3. Metodologías activas </pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -628,7 +628,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mnlos514-lxjausxjz</odePageId>
+      <odePageId>page-mnm48lb6-s7qsv5feq</odePageId>
       <odeBlockId>block-1775387668771-egfwm8e01</odeBlockId>
       <blockName>Texto</blockName>
       <iconName></iconName>
@@ -657,7 +657,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnlos514-lxjausxjz</odePageId>
+          <odePageId>page-mnm48lb6-s7qsv5feq</odePageId>
           <odeBlockId>block-1775387668771-egfwm8e01</odeBlockId>
           <odeIdeviceId>idevice-1775387668770-w87pmm82e</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -687,8 +687,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mnlos514-ukpqwtxdg</odePageId>
-  <odeParentPageId>page-mnlos510-g2bh2w8hy</odeParentPageId>
+  <odePageId>page-mnm48lb6-kr48haq6x</odePageId>
+  <odeParentPageId>page-mnm48lb2-r7k0vufzq</odeParentPageId>
   <pageName>4.Vinculación con programas del centro.</pageName>
   <odeNavStructureOrder>3</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -723,7 +723,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mnlos514-ukpqwtxdg</odePageId>
+      <odePageId>page-mnm48lb6-kr48haq6x</odePageId>
       <odeBlockId>block-1775387622557-jelffw4nt</odeBlockId>
       <blockName>Texto</blockName>
       <iconName></iconName>
@@ -752,7 +752,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnlos514-ukpqwtxdg</odePageId>
+          <odePageId>page-mnm48lb6-kr48haq6x</odePageId>
           <odeBlockId>block-1775387622557-jelffw4nt</odeBlockId>
           <odeIdeviceId>idevice-1775387622557-ridyc4x4c</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -781,8 +781,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mnlos514-bit3j8d1g</odePageId>
-  <odeParentPageId>page-mnlos510-g2bh2w8hy</odeParentPageId>
+  <odePageId>page-mnm48lb7-kr3b44mtb</odePageId>
+  <odeParentPageId>page-mnm48lb2-r7k0vufzq</odeParentPageId>
   <pageName>5.Actividades complementarias y extraescolares</pageName>
   <odeNavStructureOrder>4</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -817,7 +817,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mnlos514-bit3j8d1g</odePageId>
+      <odePageId>page-mnm48lb7-kr3b44mtb</odePageId>
       <odeBlockId>block-1775387578691-3n6f8a4y8</odeBlockId>
       <blockName>Texto</blockName>
       <iconName></iconName>
@@ -846,7 +846,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mnlos514-bit3j8d1g</odePageId>
+          <odePageId>page-mnm48lb7-kr3b44mtb</odePageId>
           <odeBlockId>block-1775387578691-3n6f8a4y8</odeBlockId>
           <odeIdeviceId>idevice-1775387578690-vmtnkfzmp</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -875,20 +875,44 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-1775390834078-013gjqhqm</odePageId>
+  <odePageId>page-mnm48lb7-ki8km8xx2</odePageId>
   <odeParentPageId></odeParentPageId>
-  <pageName>descargaeXlearning</pageName>
-  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <pageName>6. descarga eXlearning</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
-      <value>descargaeXlearning</value>
+      <value>6. descarga eXlearning</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. descarga eXlearning</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
     </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-1775390834078-013gjqhqm</odePageId>
-      <odeBlockId>block-1775390952825-r43v84g8c</odeBlockId>
+      <odePageId>page-mnm48lb7-ki8km8xx2</odePageId>
+      <odeBlockId>block-1775409561096-ma7nk3lyp</odeBlockId>
       <blockName>Descargar el archivo fuente</blockName>
       <iconName></iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
@@ -916,15 +940,15 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1775390834078-013gjqhqm</odePageId>
-          <odeBlockId>block-1775390952825-r43v84g8c</odeBlockId>
-          <odeIdeviceId>idevice-1775390952822-f8pokv4ro</odeIdeviceId>
+          <odePageId>page-mnm48lb7-ki8km8xx2</odePageId>
+          <odeBlockId>block-1775409561096-ma7nk3lyp</odeBlockId>
+          <odeIdeviceId>idevice-1775409561094-78q3s7amb</odeIdeviceId>
           <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
 <tbody>
 <tr>
 <th>Título</th>
-<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">SITUACIÓN DE APRENDIZAJE :TU ITINERARIO PERSONAL Y PROFESIONAL</span></td>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Documento sin título</span></td>
 </tr>
 <tr>
 <th>Descripción</th>
@@ -944,6 +968,18 @@
           <jsonProperties></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
